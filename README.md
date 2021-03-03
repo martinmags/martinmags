@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+## Let's Connect!
+[__Email__](https://mailto:martinremags@gmail.com) • [__LinkedIn__](https://www.linkedin.com/martinmags) • [__Website__](https://martinmags.github.io/)
+
+
+
 <!--
 **martinmags/martinmags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
