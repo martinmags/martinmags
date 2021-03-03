@@ -1,7 +1,7 @@
 ## What's up? I'm Martin! (he/him)
 I'm a creative problem solver with experience in full stack web development and UX design. Most of my work experience has been in front end, but I'm currently exploring backend technologies and expanding on my developer operation practices. On my free time, I like to lift heavy things and take aesthetic portrait photographs. 
 
-Feel free to reach out to me if you want to chat or collaborate! 
+Feel free to reach out to me if you want to collaborate or simply chat! 
 
 ## Let's Connect!
 [__Email__](https://mailto:martinremags@gmail.com) • [__LinkedIn__](https://www.linkedin.com/martinmags) • [__Website__](https://martinmags.github.io/)
