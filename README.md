@@ -4,7 +4,7 @@ I'm a creative problem solver with experience in full stack web development ⌨�
 Feel free to reach out to me if you want to collaborate or simply chat! 💡
 
 ## Let's Connect! 🤝
-[__Email__](https://mailto:martinremags@gmail.com) • [__LinkedIn__](https://www.linkedin.com/martinmags) • [__Website__](https://martinmags.github.io/)
+[__Email__](https://mailto:martinremags@gmail.com) • [__LinkedIn__](https://www.linkedin.com/in/martinmags/) • [__Website__](https://martinmags.github.io/)
 
 
 
